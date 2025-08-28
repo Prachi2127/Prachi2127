@@ -4,3 +4,4 @@
 <p align="center">
   <img width="800" height="400" src="https://github.com/Prachi2127/Prachi2127/blob/main/assets/my-banner.gif" alt="Prachi Banner">
 </p>
+<h2 align="center">Hello there! My name is Prachi Tripathi 👋🤓</h2>
