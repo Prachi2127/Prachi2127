@@ -5,3 +5,6 @@
   <img width="800" height="400" src="https://github.com/Prachi2127/Prachi2127/blob/main/assets/my-banner.gif" alt="Prachi Banner">
 </p>
 <h2 align="center">Hello there! My name is Prachi Tripathi 👋🤓</h2>
+<p align="center">
+  <em>B.Tech CSE(AI) Undergrad | Frontend Developer | Machine Learning Enthusiast | AI Explorer</em>
+</p>
