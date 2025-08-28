@@ -6,7 +6,7 @@
 </p>
 <h2 align="center">Hello there! My name is Prachi Tripathi 👋🤓</h2>
 <p align="center">
-  <em>B.Tech CSE(AI) Undergrad | Frontend Developer | Machine Learning Enthusiast | AI Explorer</em>
+  <em>B.Tech CSE(AI) Graduate | Frontend Developer | Machine Learning Enthusiast | AI Explorer</em>
 </p>
 <p align="justify">
 I'm a B.Tech CSE (AI) graduate from <b>PSIT Kanpur</b> 🎓.  
