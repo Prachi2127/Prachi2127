@@ -10,8 +10,8 @@
 </p>
 <p align="justify">
 I'm a B.Tech CSE (AI) graduate from <b>PSIT Kanpur</b> 🎓.  
-I’ve built impactful **AI projects** like a <b>Sign Language Recognition System</b> 🤟 (CNN, TensorFlow, OpenCV) to help people with hearing impairments.  
-I also enjoy working on **web development projects** 🌐 — creating responsive and user-friendly UIs.  
+I’ve built impactful AI projects like a <b>Sign Language Recognition System</b> 🤟 (CNN, TensorFlow, OpenCV) to help people with hearing impairments.  
+I also enjoy working on web development projects 🌐 — creating responsive and user-friendly UIs.  
 I’m passionate about blending intelligent systems with user-centric design and excited to keep exploring and creating impactful tech 🚀.  
 </p>
 <p align="center">
